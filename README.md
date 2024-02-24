@@ -1,0 +1,1 @@
+The provided script checks if a valid website address is given. If so, it retrieves HTML data from the website and saves it into a newly created folder, using the domain name along with the timestamp as the filename. If the address is not valid, the script terminates.
